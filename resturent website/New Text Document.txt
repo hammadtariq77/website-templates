@@ -1,0 +1,3 @@
+button color f64b3c
+2nd page bg color f6eedf
+3rd page bg color f64b3c
